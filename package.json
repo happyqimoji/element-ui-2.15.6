@@ -1,5 +1,5 @@
 {
-  "name": "element-ui-2.15.6",
+  "name": "element-ui-flush-x",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -11,7 +11,7 @@
     "url": "git+https://github.com/happyqimoji/element-ui-2.15.6.git"
   },
   "keywords": [
-    "element-ui-2.15.6"
+    "element-ui-flush-x"
   ],
   "author": "",
   "license": "MIT",
